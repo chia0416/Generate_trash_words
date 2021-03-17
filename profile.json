@@ -1,0 +1,40 @@
+{
+  "results": [
+    {
+      "id": 1,
+      "job": "工程師",
+      "job_en": "engineer",
+      "image": "https://assets-lighthouse.s3.amazonaws.com/uploads/image/file/5668/angry-developer.jpg",
+      "trash_word": [
+        "加個按鈕",
+        "加新功能",
+        "切個版",
+        "改一點 code"
+      ]
+    },
+    {
+      "id": 2,
+      "job": "設計師",
+      "job_en": "designer",
+      "image": "https://assets-lighthouse.s3.amazonaws.com/uploads/image/file/5667/angry-designer.jpg",
+      "trash_word": [
+        "畫一張圖",
+        "改個 logo",
+        "順便幫忙設計一下",
+        "隨便換個設計"
+      ]
+    },
+    {
+      "id": 3,
+      "job": "企業家",
+      "job_en": "entrepreneur",
+      "image": "https://assets-lighthouse.s3.amazonaws.com/uploads/image/file/5669/angry-founder.jpg",
+      "trash_word": [
+        "週末加班",
+        "要能賺錢",
+        "想個 business model",
+        "找 VC 募錢"
+      ]
+    }
+  ]
+}
